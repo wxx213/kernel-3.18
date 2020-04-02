@@ -1,0 +1,3 @@
+
+config MISC_TEST
+	bool "misc test"
